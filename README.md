@@ -63,8 +63,8 @@
 	#启用后会显示AI的推理过程
 	showThoughtProcess = false
 ```
-
-
+# 待实现功能
+- [ ] GUI可视化修改配置文件
 
 
 本模组使用MIT协议开源
