@@ -38,7 +38,7 @@
 	chatDisplayName = "AI"
 	#API请求使用模型的名称
 	#指定使用哪个模型
-	modelName = "xopqwenqwq32b"
+	modelName = ""
 	#是否启用消息前缀检测（默认开启）
 	#开启时只处理以'#'开头的消息，关闭时处理所有非命令消息
 	enablePrefix = true
@@ -51,7 +51,7 @@
 	contextLimit = 2
 	#API类型选择
 	#支持: deepseek, spark (讯飞星火), openai（兼容）
-	apiType = "deepseek"
+	apiType = ""
 	#是否启用联网搜索（支持此功能的API）
 	#启用后AI可以访问实时网络信息
 	enableWebSearch = false
