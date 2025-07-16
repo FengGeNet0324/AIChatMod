@@ -1,13 +1,19 @@
 为[EAS2] 伊甸空天2 Eden Aerospace 2 整合包制作
-视频链接 https://www.bilibili.com/video/BV1iD421L79A
-介绍链接 https://www.mcmod.cn/modpack/1060.html
+=======
+[BiliBili视频](https://www.bilibili.com/video/BV1iD421L79A)
+[MC百科介绍](https://www.mcmod.cn/modpack/1060.html)
 
-模组食用方法：
-/acm help 显示命令帮助信息
-/acm [enable/disable] 启用/禁用AI聊天
-/acm context [enable/disable] 启用/禁用上下文
-/acm context set [number] 设置上下文消息数量
-/acm prefix [enable/disable]
+本模组由AI代码工具辅助和人编写，毫无技术含量（确信）
+-------
 
-此模组由AI代码工具辅助和人编写，毫无技术含量（确信）
-此模组使用MIT协议开源
+食用方法
+=======
+**主要指令：`/acm`**
+| 子命令 | 用途 | 用法1 | 用法2 |
+| ------------ | ------------ |  -----------  | ------------ |
+| `help`      |  命令帮助     |
+| `context`   |  上下文参数   | `enable/disable` 启用/禁用功能 | `set [消息数量]` 设置长度  |
+| `prefix`    | 消息前缀检测  | `enable/disable` 启用/禁用功能 |
+
+
+本模组使用MIT协议开源
