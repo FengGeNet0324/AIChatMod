@@ -3,6 +3,8 @@
 [BiliBili视频](https://www.bilibili.com/video/BV1iD421L79A)
 [MC百科介绍](https://www.mcmod.cn/modpack/1060.html)
 
+![](https://i.mcmod.cn/modpack/cover/20250219/1739939320_7949_tziU.jpg@480x300.jpg)
+
 本模组由AI代码工具辅助和人编写，毫无技术含量（确信）
 -------
 
