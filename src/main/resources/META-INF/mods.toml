@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="aichatmod"
+version="0.0.3"
+displayName="AI Chat Mod"
+authors="歌喵"
+description="EAS定制，实现了在Minecraft中与AI大语言模型对话"
+logoFile = "META-INF/icons/icon.png"
+
+[[dependencies.aichatmod]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.aichatmod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"
